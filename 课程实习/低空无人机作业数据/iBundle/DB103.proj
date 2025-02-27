@@ -1,0 +1,198 @@
+$Bundle Adjustment Project File
+$Project Name:     db103.proj
+$User    Name:     DEFAULT USER
+$Last Updated:     2024-12-20  7:27:7
+
+Interior Orientation File   :   d:\2022302131030\db103\iBundle\db103.cmr
+Exterior Orientation File   :   d:\2022302131030\db103\iBundle\db103.pht
+Image & Pass Point   File   :   d:\2022302131030\db103\iBundle\db103.pts
+Control & Check Point File  :   d:\2022302131030\db103\iBundle\db103.gcp
+GPS or POS Data File        :   d:\2022302131030\db103\iBundle\db103.gps
+Bundle Adjustment OutPath   :   d:\2022302131030\db103\iBundle\ 
+
+Minimum Iterations          :   5
+Maximum Iterations          :   8
+Remove GPS Gross_Error      :   1
+Remove IMU Gross Error      :   0
+Pyramid Level Image Data    :   -1
+Image Data Type for Adjust  :   1
+Min Overlaps of Pass Point  :   2
+Weight Strategy             :   1
+Remove Invalid Control Point:   0
+Combined Bundle Adjustment  :   1
+Detect Invalid Image Point  :   1
+Detect IntStrip Gross Point :   0
+Image Location Accuracy     :   1
+Fully Automatic Solutions   :   1
+Binary Image Point File     :   0
+Construct Free Network      :   0
+Atmos. Refraction Correction:   0
+Earth Curvature Correction  :   0
+Calculate Initial Kappa     :   0
+Ground Control Data Units   :   0
+Stable Coefficient          :   0.00000
+Threshold of RMS Value      :   0.002315
+Exterior Xs    as Unkowns   :   1
+Exterior Ys    as Unkowns   :   1
+Exterior Zs    as Unkowns   :   1
+Exterior Phi   as Unkowns   :   1
+Exterior Omega as Unkowns   :   1
+Exterior Kappa as Unkowns   :   1
+
+Output CTRL Point Residues  :   1
+Output Interior Orientation :   1
+Output Exterior Orientation :   1
+Output Space Point Result   :   1
+Output Adjustment Result    :   1
+Output System Error Result  :   1
+Output Image Point Residues :   1
+Output GPS Observ. Residues :   1
+Output IMU Observ. Residues :   1
+Output Intermediate Result  :   0
+Output Unknow Precision     :   0
+Output InterSectionAngle    :   0
+Output ArcGIS BAO File      :   0
+Output Gross Detect Result  :   1
+Image Residues Threshold    :   10.000
+
+Image Point Precision X_1   :   0.002310
+Image Point Precision X_2   :   0.002310
+Image Point Precision X_3   :   0.002310
+Image Point Precision X_4   :   0.002310
+Image Point Precision X_5   :   0.002310
+Image Point Precision Y_1   :   0.002310
+Image Point Precision Y_2   :   0.002310
+Image Point Precision Y_3   :   0.002310
+Image Point Precision Y_4   :   0.002310
+Image Point Precision Y_5   :   0.002310
+
+CTRL Point Precision XY_1   :   0.080000
+CTRL Point Precision XY_2   :   0.080000
+CTRL Point Precision XY_3   :   0.080000
+CTRL Point Precision XY_4   :   0.080000
+CTRL Point Precision XY_5   :   0.080000
+CTRL Point Precision Z_1    :   0.080000
+CTRL Point Precision Z_2    :   0.080000
+CTRL Point Precision Z_3    :   0.080000
+CTRL Point Precision Z_4    :   0.080000
+CTRL Point Precision Z_5    :   0.080000
+
+GPS Offset Calibration_1    :   0
+GPS Offset Calibration_2    :   0
+GPS Offset Calibration_3    :   0
+GPS Offset Calibration_4    :   0
+GPS Offset Calibration_5    :   0
+GPS Const. Drift Calib_1    :   1
+GPS Const. Drift Calib_2    :   1
+GPS Const. Drift Calib_3    :   1
+GPS Const. Drift Calib_4    :   1
+GPS Const. Drift Calib_5    :   1
+GPS Linear Drift Calib_1    :   0
+GPS Linear Drift Calib_2    :   0
+GPS Linear Drift Calib_3    :   0
+GPS Linear Drift Calib_4    :   0
+GPS Linear Drift Calib_5    :   0
+GPS Data Precision XY_1     :   50.00000
+GPS Data Precision XY_2     :   50.00000
+GPS Data Precision XY_3     :   50.00000
+GPS Data Precision XY_4     :   50.00000
+GPS Data Precision XY_5     :   50.00000
+GPS Data Precision Z_1      :   30.00000
+GPS Data Precision Z_2      :   30.00000
+GPS Data Precision Z_3      :   30.00000
+GPS Data Precision Z_4      :   30.00000
+GPS Data Precision Z_5      :   30.00000
+
+IMU Offset Calibration_1    :   0
+IMU Offset Calibration_2    :   0
+IMU Offset Calibration_3    :   0
+IMU Offset Calibration_4    :   0
+IMU Offset Calibration_5    :   0
+IMU Const. Drift Calib_1    :   1
+IMU Const. Drift Calib_2    :   1
+IMU Const. Drift Calib_3    :   1
+IMU Const. Drift Calib_4    :   1
+IMU Const. Drift Calib_5    :   1
+IMU Linear Drift Calib_1    :   0
+IMU Linear Drift Calib_2    :   0
+IMU Linear Drift Calib_3    :   0
+IMU Linear Drift Calib_4    :   0
+IMU Linear Drift Calib_5    :   0
+IMU Data Precision Phi_1    :   0.05
+IMU Data Precision Phi_2    :   0.05
+IMU Data Precision Phi_3    :   0.05
+IMU Data Precision Phi_4    :   0.05
+IMU Data Precision Phi_5    :   0.05
+IMU Data Precision Omega_1  :   0.05
+IMU Data Precision Omega_2  :   0.05
+IMU Data Precision Omega_3  :   0.05
+IMU Data Precision Omega_4  :   0.05
+IMU Data Precision Omega_5  :   0.05
+IMU Data Precision Kappa_1  :   0.05
+IMU Data Precision Kappa_2  :   0.05
+IMU Data Precision Kappa_3  :   0.05
+IMU Data Precision Kappa_4  :   0.05
+IMU Data Precision Kappa_5  :   0.05
+
+Lens Distortion Calib F_1   :   0
+Lens Distortion Calib F_2   :   0
+Lens Distortion Calib F_3   :   0
+Lens Distortion Calib F_4   :   0
+Lens Distortion Calib F_5   :   0
+Lens Distortion Calib U_1   :   0
+Lens Distortion Calib U_2   :   0
+Lens Distortion Calib U_3   :   0
+Lens Distortion Calib U_4   :   0
+Lens Distortion Calib U_5   :   0
+Lens Distortion Calib V_1   :   0
+Lens Distortion Calib V_2   :   0
+Lens Distortion Calib V_3   :   0
+Lens Distortion Calib V_4   :   0
+Lens Distortion Calib V_5   :   0
+Lens Distortion Calib K0_1  :   0
+Lens Distortion Calib K0_2  :   0
+Lens Distortion Calib K0_3  :   0
+Lens Distortion Calib K0_4  :   0
+Lens Distortion Calib K0_5  :   0
+Lens Distortion Calib K1_1  :   1
+Lens Distortion Calib K1_2  :   1
+Lens Distortion Calib K1_3  :   1
+Lens Distortion Calib K1_4  :   1
+Lens Distortion Calib K1_5  :   1
+Lens Distortion Calib K2_1  :   1
+Lens Distortion Calib K2_2  :   1
+Lens Distortion Calib K2_3  :   1
+Lens Distortion Calib K2_4  :   1
+Lens Distortion Calib K2_5  :   1
+Lens Distortion Calib K3_1  :   0
+Lens Distortion Calib K3_2  :   0
+Lens Distortion Calib K3_3  :   0
+Lens Distortion Calib K3_4  :   0
+Lens Distortion Calib K3_5  :   0
+Lens Distortion Calib P1_1  :   0
+Lens Distortion Calib P1_2  :   0
+Lens Distortion Calib P1_3  :   0
+Lens Distortion Calib P1_4  :   0
+Lens Distortion Calib P1_5  :   0
+Lens Distortion Calib P2_1  :   0
+Lens Distortion Calib P2_2  :   0
+Lens Distortion Calib P2_3  :   0
+Lens Distortion Calib P2_4  :   0
+Lens Distortion Calib P2_5  :   0
+Lens Distortion Calib B1_1  :   0
+Lens Distortion Calib B1_2  :   0
+Lens Distortion Calib B1_3  :   0
+Lens Distortion Calib B1_4  :   0
+Lens Distortion Calib B1_5  :   0
+Lens Distortion Calib B2_1  :   0
+Lens Distortion Calib B2_2  :   0
+Lens Distortion Calib B2_3  :   0
+Lens Distortion Calib B2_4  :   0
+Lens Distortion Calib B2_5  :   0
+System Error Estimation_1   :   0
+System Error Estimation_2   :   0
+System Error Estimation_3   :   0
+System Error Estimation_4   :   0
+System Error Estimation_5   :   0
+
+$Bundle Adjustment Project File

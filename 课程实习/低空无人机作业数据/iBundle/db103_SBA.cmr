@@ -1,0 +1,5 @@
+$Interior Orientation Parameters of Cameras
+$CamaraNumber
+$CameraID        x0          y0           f         format_X     format_Y      pixelSize       k0            k1            k2            k3            p1            p2            a1            a2    R0   Attrib 
+    1
+    0      0.1131936    0.0025149    3.6148344    6.1720000    4.6290000    0.0015430   0.0000000e+00  -6.6409275e-04   5.2186529e-05   2.0070830e-06   6.3148035e-04  -1.0119724e-03   0.0000000e+00   0.0000000e+00    0.00000 1111
